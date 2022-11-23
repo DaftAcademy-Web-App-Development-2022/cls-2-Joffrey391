@@ -1,3 +1,3 @@
-# Hippoptype <- nazwa profilu na githubie
+# Joffrey391
 
 - [deploy](https://cls-1-hippopotype.vercel.app/)
