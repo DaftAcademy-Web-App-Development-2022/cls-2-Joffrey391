@@ -1,9 +1,9 @@
 import React from "react";
 import usePlayer from "~/hooks/usePlayer.hook";
 import styles from "./Player.module.css";
-//import PlayButton from "./components/PlayButton/PlayButton.component";
-//import MuteButton from "./components/MuteButton/MuteButton.component";
-//import ProgressBar from "./components/ProgressBar/ProgressBar.component";
+import PlayButton from "./components/PlayButton/PlayButton.component";
+import MuteButton from "./components/MuteButton/MuteButton.component";
+import ProgressBar from "./components/ProgressBar/ProgressBar.component";
 
 const Player = () => {
     const { state } = usePlayer();
