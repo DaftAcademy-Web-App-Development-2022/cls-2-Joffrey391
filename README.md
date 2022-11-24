@@ -1,3 +1,3 @@
 # Joffrey391
 
-- [deploy](https://cls-1-hippopotype.vercel.app/)
+- [deploy](https://web-app-academy.vercel.app)
